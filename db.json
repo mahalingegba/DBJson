@@ -1,0 +1,48 @@
+{
+  "restaurants": [
+    {
+      "name": "TumkurRestaurant",
+      "email": "tumkurest@gmail..com",
+      "Adress": "Tumkur",
+      "id": 1
+    },
+    {
+      "name": "KKRestaurant",
+      "email": "kkrestaurant@gmail.com",
+      "Adress": "Bangalore",
+      "id": 2
+    },
+    {
+      "name": "Indian Restaurant",
+      "email": "indianrestaurant@gmail.com",
+      "Adress": "Whitefield ,Bangalore",
+      "id": 3
+    },
+    {
+      "name": "Naturals",
+      "email": "naturals@gmail.com",
+      "Adress": "Bangalore",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "Peter ",
+      "email": "peter@gmail.com",
+      "Password": "123456",
+      "id": 1
+    },
+    {
+      "name": "John",
+      "email": "john@gmail.com",
+      "Password": "123456",
+      "id": 2
+    },
+    {
+      "name": "JohnPeter",
+      "email": "johnpeter@gmail.com",
+      "Password": "123456",
+      "id": 3
+    }
+  ]
+}
